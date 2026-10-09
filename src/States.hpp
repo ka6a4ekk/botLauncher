@@ -1,0 +1,1 @@
+enum class StateEnum{GeneralSettings, Rotation};
